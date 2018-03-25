@@ -1,0 +1,9 @@
+Package: org.lxm.appdownloader
+Name: appstore-auto-downloader
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 罗贤明
+Author: 罗贤明
+Section: Tweaks
